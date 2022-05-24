@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-29T22:15:33Z" name="Default suite" finished-at="2021-10-29T22:15:39Z" duration-ms="5740">
+    <groups>
+    </groups>
+    <test started-at="2021-10-29T22:15:33Z" name="Default test" finished-at="2021-10-29T22:15:39Z" duration-ms="5740">
+      <class name="loginTest.TC_03_Logout">
+        <test-method is-config="true" signature="startWebDriver()[pri:0, instance:loginTest.TC_03_Logout@1a6f5124]" started-at="2021-10-29T17:15:33Z" name="startWebDriver" finished-at="2021-10-29T17:15:34Z" duration-ms="1043" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startWebDriver -->
+        <test-method signature="TC_03()[pri:0, instance:loginTest.TC_03_Logout@1a6f5124]" started-at="2021-10-29T17:15:34Z" name="TC_03" finished-at="2021-10-29T17:15:39Z" duration-ms="4041" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_03 -->
+        <test-method is-config="true" signature="closeDriver()[pri:0, instance:loginTest.TC_03_Logout@1a6f5124]" started-at="2021-10-29T17:15:39Z" name="closeDriver" finished-at="2021-10-29T17:15:39Z" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriver -->
+      </class> <!-- loginTest.TC_03_Logout -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
